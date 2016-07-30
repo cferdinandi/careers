@@ -10,13 +10,13 @@ Most web designer and front-end developer portfolios are pretty basic:
 
 **I'm going to be blunt: these kinds of portfolios suck.**
 
-What potential employers really want to know is how you added value for the client. Pretty pictures on a webpage don't tell them that.
+What potential employers really want to know is how you added value for the client. Pretty pictures of your work don't tell them that.
 
 ## What you really want is a collection of case studies.
 
-Go ahead and include images of your work. But also talk about the key challenges your client had or goals for the project. Talk about the decisions you made, why you made them, and how they impacted your objectives.
+Go ahead and include images of your work. But also talk about the key challenges your client had or the big goals for the project. Talk about the decisions you made, why you made them, and how they impacted your objectives.
 
-*What* did you do, and *why* did you do it? You should also get quotes from happy clients and include them if you can.
+*What* did you do, *why* did you do it, and what was the *outcome*? You should also get quotes from happy clients and include them if you can.
 
 Here's the beginning of a case study I wrote for PAWS New England, a client of mine:^[[https://gomakethings.com/projects/paws-new-england/](https://gomakethings.com/projects/paws-new-england/)]
 

@@ -1,5 +1,5 @@
 
-# How do you find open roles?
+# How to find open roles
 
 There are three ways you can find open roles:
 
@@ -13,7 +13,7 @@ Let's talk about all three.
 
 This is the most common approach: you search on a job board, find roles you like, and submit your resume.
 
-It can totally work. I got a job at $55 billion tech company doing that, and it eventually kicked-started my web developer career. But it's *really* hard to do (for reasons I'll cover in the next chapter).
+It can totally work. I got a job at $55 billion tech company doing that, and it eventually kicked-started my web developer career. But it's *really* hard to do (for reasons I'll cover in [a later chapter](#why-job-hunting-sucks-so-bad)).
 
 ## Let recruiters come to you.
 
@@ -47,13 +47,15 @@ Networking helps you find out about these roles sooner and get in before the doo
 
 ### What's the best way to network when you're looking for a job?
 
-[Remember this phrase?](#how-do-you-figure-out-what-to-do-next)
+[Remember this phrase?](#how-to-figure-out-what-to-do-next)
 
 > Can I learn more about what you do over coffee, my treat?
 
 It works when looking for a job, too---even if you already know what the role entails and have the skills to do it.
 
-It's just so much easier to say "yes" to than, "I'm looking for a new job. Can I chat with you about openings at your company?" It's like a magic question that gets people to open up and let their guard down.
+It's just so much easier for someone to say "yes" to than, "I'm looking for a new job. Can I chat with you about openings at your company?"
+
+It's like a magic question that gets people to open up and let their guard down.
 
 The one difference with this approach when you're actively looking for work: ask if they known of any open roles that might be a good fit for you. If you've never done this before, it's amazing how willing people will be to help you out.
 

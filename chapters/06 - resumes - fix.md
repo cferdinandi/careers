@@ -5,7 +5,7 @@ There's a good chance that you have an "Objective" section up at the top of your
 
 > Seeking a role as a front-end developer where I can utilize my talents and skills to fulfill the goals of the organization.
 
-What you're really saying it, "I'm looking for a job that's just like whatever one you have available."
+What you're really saying it, "I'm looking for whatever job you have available."
 
 It's the same thing that everyone else puts on their resume, it's the first thing that the recruiter sees, and it tells them nothing about why they should keep reading.
 
@@ -49,7 +49,7 @@ So what? Everyone else who applied for this role has done those things, too.
 
 **Tasks make you an expense. Outcomes make you an asset that adds value to the organization.**
 
-You want to show the recruiter why those things matter by talking about the value you created for the client or the organization you were working for. Here are some examples:
+You want to show the recruiter why those things matter by talking about the value you created for the client or the organization that you were working for. Here are some examples:
 
 > Redesigned Animal Rescue Organization's website to be mobile-friendly, resulting in a 100% increase in online donations.
 
@@ -76,11 +76,11 @@ For each project or role on your resume, you'll end up with a bulleted list of e
 
 ## Customize your resume for every role you apply to.
 
-Remember, recruiters use an ATS that screens against keywords.
+Remember, recruiters use an ATS that screens your resume against a list of keywords.
 
-Often times, the recruiter sourcing candidates isn't technical theirself (which is why you may get recruiter emails on LinkedIn about Java roles if you list JavaScript as a skill).
+Often times, the recruiter sourcing candidates isn't technical themself.
 
-As a result, they'll often pull the keywords they use directly out of the job description. They often don't use synonyms or alternative words with similar meaning, simply because they don't know any better.
+As a result, they'll often just pull the keywords they use directly out of the job description. Many times they won't use synonyms or alternative words with similar meaning, simply because they don't know any better.
 
 ### Now that you know this, you can hack the process.
 
@@ -98,7 +98,7 @@ And not:
 
 > Built a website using mobile-first RWD
 
-Don't assume "mobile-first RWD" will match or that the recruiter will know what they're the same.
+Don't assume "mobile-first RWD" will match or that the recruiter will know that they're the same.
 
 ***A caveat:*** *I'm sure this goes without saying, but only list experiences if you actually have them. You might trick the ATS, but eventually the recruiter or hiring manager will figure out that you don't have the experiences you said you did. Recruiters talk. They'll tell others about you.*
 
@@ -143,11 +143,11 @@ I recommend the "One-to-Three Guideline:"
 
 ### What if you have a lot of experience?
 
-I've seen resumes that were (no lie) 12 pages long. These were very experienced engineer.
+I've seen resumes that were (no lie) 12 pages long. These were very experienced engineers.
 
-Recruiters aren't going to reading that. And most of the experience probably isn't relevant to the job you're applying for, either.
+Recruiters aren't going to read that. And most of the experiences in a resume that long aren't relevant to the job you're applying for, either.
 
-If you've been in technology for a while, or if you've just switched careers for another field (like I did), I'd recommend summarizing older or irrelevant experiences. You can do this simply by dropping the bullet points.
+If you've been in technology for a while, or if you've just switched careers from another field (like I did), I'd recommend summarizing older or irrelevant experiences. You can do this by simply dropping the bullet points.
 
 So this:
 
