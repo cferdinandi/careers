@@ -7,6 +7,16 @@ It's driven in part by a feeling that, as an expert, you should know at least a 
 
 This is 100% normal, and you're not alone. Everyone goes through this.
 
+## Don't expect your employer to tell you.
+
+I've worked at a few organizations that have amazing learning cultures.
+
+One company had weekly lunch-and-learns, where developers who worked their would talk about cool things they were doing or something new that they learned. We went to conferences. We had memberships to online learning sites.
+
+But I wasn't told what I should focus on, or what I should learn next.
+
+No one knows what you want for your career other than you. Make sure you're taking charge of your own learning and development. Fortunately, there are so many ways to do that as a web developer.
+
 ## Be a fast follower.
 
 Don't be the first to learn every new technology. Don't jump on every bandwagon. You'll go insane trying to keep up.
@@ -26,6 +36,18 @@ The thing is, plenty of companies still use vanilla CSS. Many invested in Grunt 
 Old technology is stable. It's less expensive. It's doesn't change as frequently or break as often. It's easier to find people to work on it.
 
 Don't feel like you always have to chase the latest thing. You can be happily employed working on more mundane technology stacks.
+
+## Pay attention to the big shifts in the industry.
+
+Long after responsive web design was considered a best practice, I would still run into more seasoned developers who'd heard of it but weren't really sure how it worked.
+
+This is a really easy trap to fall into when you work as an in-house developer---especially at a larger organization. You may have a relatively stable technology stack, a pretty successful site, or even just a lot of organizational inertia and a culture that doesn't foster innovation.
+
+I was once interviewed by the head of a UX organization who, when asked about their mobile strategy, told me, "I think mobile is a fad, and one that's time is almost up. People don't want to use [our product] on their phone."
+
+Be aware of big shifts in the industry and how they affect the work you do and the problems you solve.
+
+You don't want to be the one designing layouts in tables when everyone else has moved on to responsive grids and flexbox. That's a great way to make yourself obsolete.
 
 ## How do you know what skills to focus on?
 
