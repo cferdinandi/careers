@@ -1,2 +1,2 @@
 
-![Book Title](assets/cover.jpg)
+![](assets/cover.png)
