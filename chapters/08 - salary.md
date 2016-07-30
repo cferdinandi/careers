@@ -21,9 +21,9 @@ Fortunately, there are two tools you can use to get a ballpark:
 
 At Glassdoor, you just enter the job title and location and it will provide you with a salary range. At Indeed, you can search for roles by location. Many list a salary range that you can use as a baseline.
 
-Pick a number in the middle of the range if you want to be conservative, or towards the higher end if you have a rare or unique skill you think is worth top dollar.
+Pick a number in the middle of the range if you want to be conservative, or towards the higher end if you have a rare or unique skill that you think is worth top dollar.
 
-## Agency versus Business
+## Agency versus In-House Developer
 
 A web agency---one who makes web things for other companies---typically pays less than a business that sells products or sells services that are not web development (but where you happen to be a developer).
 
@@ -42,7 +42,7 @@ There are two types of monetary compensation (ie. money):
 
 Fixed compensation is a guaranteed salary (for example, $65,000 a year). Variable compensation is typically a bonus whose amount can change based on things like individual, team, or company performance.
 
-You may, for example, be offered a $5,000 annual bonus target. If the company hits is estimated numbers, you'll get 100% of that. If they company doesn't hit it's numbers, you may only get 85%, or none of it.
+You may, for example, be offered a $5,000 annual bonus target. If the company hits is estimated numbers, you'll get 100% of that. If they don't hit their numbers, you may only get 85%, or none of it.
 
 Variable compensation can be large and enticing. I personally always prefer a higher fixed compensation, since it's guaranteed money in my check every week.
 
@@ -52,14 +52,14 @@ Companies will often offer perks to offset the salary they offer you. Some are b
 
 **Good**
 
-- Health care, which is really expensive if you pay for it yourself
-- Professional development, like conferences, memberships, and in-person training
-- Paid time off, which costs them little but is awesome for you
+- Health care, which is really expensive if you pay for it yourself.
+- Professional development, like conferences, memberships, and in-person training.
+- Paid time off, which costs them little but is awesome for you.
 
 **Bad**
 
-- Stock options, which are like lottery tickets that you have to work harder for
-- "A fun work place," which is often used to make you work harder and longer for less money
+- Stock options, which are like lottery tickets that you have to work harder for.
+- "A fun work place," which is often used to make you work harder and longer for less money.
 
 ## Location-hacking for more money
 
@@ -71,11 +71,11 @@ You'll probably have to travel a few times a year, but working from home and mak
 
 ## How do you ask for your desired amount?
 
-When is almost as important as how.
+*When* is almost as important as *how*.
 
-Most recruiters like to ask up front, and it makes sense. If you're requirements are way above the range for the role, there's no sense in moving forward. That's one strategy, and it's totally valid.
+Most recruiters like to ask up front, and it makes sense. If your requirements are way above the salary range for the job, there's no sense in moving forward. That's one strategy, and it's totally valid.
 
-Another, equally valid approach, is to delay all salary discussion until they're ready to make you an offer. By this point, they're ideally already very excited to have you join, and may be willing to push their budget a bit to make it work.
+Another, equally valid approach is to delay all salary discussions until they're ready to make you an offer. By this point, they're ideally already very excited to have you join, and may be willing to push their budget a bit to make it work.
 
 So *how* do you ask? Just tell them what you want to make, calmly and confidently.
 
@@ -87,7 +87,7 @@ You want to be confident when you say it. It should sound so second nature that 
 
 You should be comfortable asking for money. After all, it's why you work, and your employer would have no problem paying you less if you let them.
 
-## What to do when they give you an offer
+## What to do when they make an offer
 
 There's a bit of a dance that happens here.
 
@@ -133,7 +133,7 @@ Recruiters will often ask this question. It's even on some job applications.
 
 Never, ever, ever answer this question. It's a trap^[[http://i.giphy.com/3ornka9rAaKRA2Rkac.gif](http://i.giphy.com/3ornka9rAaKRA2Rkac.gif)] designed to screw you out of money.
 
-What you make today should never be a basis for what you're paid at your next job. Your pay should be based on what others in similar roles in similar locations are paid, and on that value that you add to the company.
+What you make today should never be a basis for what you're paid at your next job. Your pay should be based on what others in similar roles in similar locations are paid, and on the value that you add to the company.
 
 So how do you answer this question if you're asked? By calmly and confidently telling them what you'd like to make:
 

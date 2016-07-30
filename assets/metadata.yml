@@ -1,15 +1,15 @@
 ---
 title:
 - type: main
-  text: My Book
+  text: The Web Developer Career Guide
 - type: subtitle
-  text: An investigation of metadata
+  text: How to stay relevant, hack the hiring process, and make more money
 creator:
 - role: author
-  text: John Smith
-- role: editor
-  text: Sarah Jones
-publisher:  My Press
-rights: © 2007 John Smith, CC BY-NC
-cover-image: assets/cover.jpg
+  text: Chris Ferdinandi
+publisher:  Go Make Things, LLC
+date: v0.2.0
+rights: Copyright 2016 Chris Ferdinandi, All Rights Reserved
+stylesheet: assets/pandoc.css
+# cover-image: assets/cover.jpg
 ---
