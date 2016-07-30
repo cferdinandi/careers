@@ -36,22 +36,6 @@ a:focus {
 	outline: thin dotted;
 }
 
-*::-moz-selection {
-	background: rgba(255, 255, 0, 0.3);
-}
-
-*::selection {
-	background: rgba(255, 255, 0, 0.3);
-}
-
-a::-moz-selection {
-	background: rgba(255, 255, 0, 0.3);
-}
-
-a::selection {
-	background: rgba(255, 255, 0, 0.3);
-}
-
 p {
 	margin: 1em 0;
 }
@@ -82,7 +66,6 @@ h4, h5, h6 {
 
 h1 {
 	font-size: 2.5em;
-	/*margin-top: 0.5em;*/
 	margin-top: 0;
 	page-break-before: always;
 }
