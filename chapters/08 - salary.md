@@ -1,5 +1,5 @@
 
-# How to get paid
+# How to get paid what you deserve
 
 One area of the recruiting process that can be a real mystery is how to negotiate salary.
 
