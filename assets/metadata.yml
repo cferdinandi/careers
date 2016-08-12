@@ -3,12 +3,12 @@ title:
 - type: main
   text: The Web Developer Career Guide
 - type: subtitle
-  text: How to stay relevant, hack the hiring process, and make more money
+  text: How to stay relevant, hack the hiring process, and make more money as an in-house developer.
 creator:
 - role: author
   text: Chris Ferdinandi
 publisher:  Go Make Things, LLC
-date: v1.0.1
+date: v1.0.3
 rights: Copyright 2016 Chris Ferdinandi, All Rights Reserved
 cover-image: assets/cover.png
 ---

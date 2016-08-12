@@ -11,7 +11,7 @@ This is 100% normal, and you're not alone. Everyone goes through this.
 
 I've worked at a few organizations that have amazing learning cultures.
 
-One company had weekly lunch-and-learns, where developers who worked their would talk about cool things they were doing or something new that they learned. We went to conferences. We had memberships to online learning sites.
+One company had weekly lunch-and-learns, where developers who worked there would talk about cool things they were doing or something new that they learned. We went to conferences. We had memberships to online learning sites.
 
 But I wasn't told what I should focus on, or what I should learn next.
 

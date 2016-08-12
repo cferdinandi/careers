@@ -22,9 +22,9 @@ The best way to answer all three of these types of questions is with the STAR Me
 
 The STAR Method is an acronym:
 
-**S**ituation<br>
-**T**ask<br>
-**A**ction<br>
+**S**ituation<br />
+**T**ask<br />
+**A**ction<br />
 **R**esult
 
 To answer a question using this method, identify a Situation or Task you were in, describe the Actions you took, and then explain the Results you achieved.
@@ -116,7 +116,7 @@ These days, I would probably go for option 2, and if that doesn't work out, 3. H
 There's a few simple things you should do:
 
 1. **Study your own resume.** You want to know your own background (and outcomes) inside and out. I find myself referring back to two or three examples that best highlight the value I add over and over again.
-2. **Research the organization.** Make sure you know their products or services, their business model, and any big accomplishments they've had recently.
+2. **Research the organization.** Make sure you know their products or services, how they make money, and any big accomplishments they've had recently.
 3. **Take notes.** You'll appear more interested and engaged. But don't take so many that you stop paying attention to the interviewer. I use notes in two ways:
 	- To write down questions I have so that I don't forget them and can ask them at the end when they say, "So, do you have any questions for me?"
 	- As a side benefit, I cheat and write down two or three of my best work examples in the corner of the page so that I don't get nervous, draw a blank, and completely forget them.
